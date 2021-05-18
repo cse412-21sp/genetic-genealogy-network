@@ -12,6 +12,9 @@
   color:"#ffffff"
    /]
 
+
+[ObservableEmbed link:"https://observablehq.com/embed/d8734a25af2bba9c?cells=chart"width:"100%" height:"445"/]
+
 The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations for the web. For this project, you will select a topic of interest and author a narrative article and accompanying visualizations to educate and inform a general audience. Think of your project as contributing to our own class newspaper or scientific magazine. The final deliverable will take the form of an explanatory narrative, deployed as an interactive web page using GitHub Pages. You will leverage the template and style provided here. 
 
 ## The theme is data visualization for communicating scientific advancements or social phenomena. How might data visualization help us better understand the workings of our society or our physical world?
