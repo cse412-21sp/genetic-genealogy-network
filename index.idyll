@@ -12,8 +12,12 @@
   color:"#ffffff"
    /]
 
+[data name: triangulated_segments, source:"data/triangulated_segments.json" /]
+[NetworkGraph data:triangulated_segments /]
 
-[ObservableEmbed link:"https://observablehq.com/embed/d8734a25af2bba9c?cells=chart"width:"100%" height:"445"/]
+[FullWidth]
+[ObservableEmbed link:"https://observablehq.com/embed/d8734a25af2bba9c?cells=chart" width:"100%" height:"445"/]
+[/FullWidth]
 
 The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations for the web. For this project, you will select a topic of interest and author a narrative article and accompanying visualizations to educate and inform a general audience. Think of your project as contributing to our own class newspaper or scientific magazine. The final deliverable will take the form of an explanatory narrative, deployed as an interactive web page using GitHub Pages. You will leverage the template and style provided here. 
 
@@ -303,4 +307,4 @@ Make sure your post has been built, then commit the `docs` folder to your projec
 
 #### Acknowledgements
 
-This template was adapted from the initial Scrollytelling template for Idyll. The code and visualization examples were adapted from the [final project template](https://github.com/cse412-21w/project-demo) created for a previous offering of CSE 412.
+This template was adapted from the initial Scrollytelling template for Idyll. The code and visualization examples were adapted from the [final project template](https://github.com/cse412-21w/project-demo) created for a previous offering of CSE 412.)
