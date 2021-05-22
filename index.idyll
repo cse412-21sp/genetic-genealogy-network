@@ -14,11 +14,13 @@
 
 It’s hard to imagine how a little bit of spit could unravel a family mystery, but in the case of our team member Karin, that is exactly what it did.  
 
-With the advent of affordable direct-to-consumer DNA testing, millions of people have spit in a tube or swabbed their cheeks hoping to learn more about their ancestors. There’s lots of attention paid to the pie charts showing bioregional ancestry. 
+With the advent of affordable direct-to-consumer DNA testing, millions of people have spit in a tube or swabbed their cheeks hoping to learn more about their ancestors. There’s lots of attention paid to the pie charts showing bioregional ancestry. This sort of statistical analysis gives varying results, since each company uses a different algorithm and reference sample. While this can yield some insights, there are other techniques for uncovering the specific location of any human in the tapestry of all people. By looking at patterns of DNA shared among individuals, we can use this sort of test result to identify specific ancestors. One of the approaches to solving these mysteries is to examine triangulated segments--a stretch of DNA that is shared by three different individuals. This is strong evidence that a common ancestor is the source of that DNA.
 
-This sort of statistical analysis gives varying results, since each company uses a different algorithm and reference sample. While this can yield some insights, there are other techniques for uncovering the specific location of any human in the tapestry of all people. By looking at patterns of DNA shared among individuals, we can use this sort of test result to identify specific ancestors.
 
-(We are planning to create our own chromosome map)
+![chromosome](./static/images/Chromosome_2.PNG)
+
+*(Note: we are planning to create our own chromosome map)*
+
 
 Below is a network graph showing triangulated segments for DNA matches to Karin. Each node represents a DNA tester. The size of the nodes corresponds to the amount of DNA each tester shares with Karin. The edges indicate shared segments. Note that we haven’t included Karin or her parents (both of whom have tested), since that would clutter the view.
 
@@ -27,14 +29,16 @@ This data comes from the GEDmatch database. People who have tested their DNA wit
 [FullWidth]
 [ObservableEmbed link:"https://observablehq.com/embed/@afbing/final-project-network-graph?cells=chart"width:"100%" height:"1100"/] 
 [/FullWidth]
+*(Note: we are working on embedding these without the observable logo and increasing interactivity)*
+
 
 This shows us lots of clusters of interconnected people, but without context that doesn’t tell us very much. What happens if we color-code a few key individuals, and the edges connecting to them?
 
 [FullWidth]
 [ObservableEmbed link:"https://observablehq.com/embed/d8734a25af2bba9c?cells=chart"width:"100%" height:"1100"/]
 [/FullWidth]
+*(Note: This is currently colored by chromosome, not individual. We are working to change this)*
 
-*(Note: we are working on embedding these without the observable logo and increasing interactivity)*
 
 This view starts to show how people are related on Karin’s father’s side, as well as her maternal grandfather’s side.
 
@@ -50,7 +54,7 @@ Barry Borgerson (Karin’s dad) agreed to spit in a tube for AncestryDNA. His DN
 We won’t bore you with the details, but a lot of research uncovered how some of those matches were related to one another.
 
 [FullWidth]
-[ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre?cells=chart"width:"100%" height:"400"/]
+[ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre?cells=chart"width:"100%" height:"350"/]
 [/FullWidth]
 
 We plan to finish telling this story for our final submission. 
