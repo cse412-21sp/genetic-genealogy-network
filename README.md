@@ -2,7 +2,11 @@
 
 ## Team Members
 
-Place your team member names here.
+Raphael Bakin
+Andrew Bingham
+Nick Bohmann
+Karin Borgerson
+Hana Morris
 
 ### Contribution Statements
 
