@@ -30,9 +30,9 @@ The data we visualize below comes from the [GEDmatch](https://www.gedmatch.com) 
 Below is  a network graph showing triangulated segments for DNA matches to Karin. Each node represents a DNA tester. The size of the nodes corresponds to the amount of DNA each tester shares with Karin. (On average, people who share more DNA are more closely related). The edges indicate shared segments. Note that we haven’t included Karin or her parents (both of whom have been tested), since doing so would clutter the view.
 
 
-[FullWidth]
-[ObservableEmbed link:"https://observablehq.com/embed/@afbing/final-project-network-graph?cells=chart"width:"100%" height:"1100"/] 
-[/FullWidth]
+
+[ObservableEmbed link:"https://observablehq.com/embed/@nboh/final-project-network-graph?cells=chart_nocolor"width:"100%" height:"800"/] 
+
 *(Note: we are working on embedding these without the observable logo and increasing interactivity)*
 
 This graph shows us lots of clusters of interconnected people, but without further context, it doesn’t tell us very much. 
@@ -43,7 +43,8 @@ Let’s start to assign some of these matches to different categories. Since Kar
 
 Two of the DNA testers in this network are siblings of Karin’s father. What would happen if we color-code them and use the corresponding color for the edges connecting them to others? 
 
-**(network graph with paternal aunt & uncle (394832 + 416595)  and associated links coded to paternal color)**
+
+[ObservableEmbed link:"https://observablehq.com/embed/@nboh/final-project-network-graph?cells=chart_auntuncle"width:"100%" height:"800"/] 
 
 This view starts to show some of the clusters of matches who are related on Karin’s dad’s side of the family. (Note that this won’t identify all paternal matches, as some may not have triangulated segments with this aunt and uncle).
 
@@ -53,11 +54,15 @@ Karin’s maternal grandfather George Nelson also tested his DNA before he died,
 
 If we now color George and his connections in the network graph, we can also identify the matches who are related to Karin via George.
 
-**(insert a version of network graph that highlights 210065 (George Nelson, Karin’s maternal grandfather) in one color and 394832 + 416595 (Karin’s paternal aunt & uncle) in another)**
+
+[ObservableEmbed link:"https://observablehq.com/embed/@nboh/final-project-network-graph?cells=chart_gramps"width:"100%" height:"800"/] 
 
 We can also identify a match related through Karin’s maternal grandmother (Bonny Sharp), as well as two related through Claire McElroy (Barry’s paternal grandmother).
 
 **(insert expanded circle graph to show Bonny, Claire, as well as updated network graph highlighting 048482 (Bonny side) and 313071/389428 (Claire side). Also pedigree(s)?)**
+
+
+[ObservableEmbed link:"https://observablehq.com/embed/@nboh/final-project-network-graph?cells=chart_cousins"width:"100%" height:"800"/] 
 
 Highlighting matches connected to some known relatives starts to provide some meaning to this network graph, but how do we move from this to solving mysteries about unknown people?
 
@@ -84,4 +89,6 @@ It turns out that Ralph Douyette, a blacksmith who was married with four childre
 
 Here’s one last view of our network graph, with the descendants of Ralph Douyette via his first marriage added to our color-coding:
 
-**(network graph highlighting 350270, 231372, 000446)**
+
+[ObservableEmbed link:"https://observablehq.com/embed/@nboh/final-project-network-graph?cells=chart_douyettes"width:"100%" height:"800"/] 
+
