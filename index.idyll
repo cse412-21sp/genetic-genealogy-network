@@ -48,16 +48,16 @@ Two of the DNA testers in this network are siblings of Karin’s father. What wo
 
 This view starts to show some of the clusters of matches who are related on Karin’s dad’s side of the family. (Note that this won’t identify all paternal matches, as some may not have triangulated segments with this aunt and uncle).
 
-Karin’s maternal grandfather George Nelson also tested his DNA before he died, and he gave Karin permission to share information about his results. Here’s a diagram of Karin’s ancestors that goes back one more generation, showing her four grandparents. 
+Karin’s maternal grandfather [span style:`{color:'#dc9118'}`]George Nelson[/span]  also tested his DNA before he died, and he gave Karin permission to share information about his results. Here’s a diagram of Karin’s ancestors that goes back one more generation, showing her four grandparents. 
 
 **(insert two-generation circle chart showing six colors, ideally with parent colors as a mix of relevant grandparent colors)**
 
-If we now color George and his connections in the network graph, we can also identify the matches who are related to Karin via George.
+If we now color [span style:`{color:'#dc9118'}`]George[/span] and his connections in the network graph, we can also identify the matches who are related to Karin via [span style:`{color:'#dc9118'}`]George[/span].
 
 
 [ObservableEmbed link:"https://observablehq.com/embed/@nboh/final-project-network-graph?cells=chart_gramps"width:"100%" height:"800"/] 
 
-We can also identify a match related through Karin’s maternal grandmother (Bonny Sharp), as well as two related through Claire McElroy (Barry’s paternal grandmother).
+We can also identify a match related through Karin’s maternal grandmother ([span style:`{color:'#decd17'}`]Bonny Sharp[/span]), as well as two related through [span style:`{color:'#f03775'}`]Claire McElroy[/span] ([span style:`{color:'#56939A'}`]Barry's[/span] paternal grandmother).
 
 **(insert expanded circle graph to show Bonny, Claire, as well as updated network graph highlighting 048482 (Bonny side) and 313071/389428 (Claire side). Also pedigree(s)?)**
 
@@ -66,28 +66,28 @@ We can also identify a match related through Karin’s maternal grandmother (Bon
 
 Highlighting matches connected to some known relatives starts to provide some meaning to this network graph, but how do we move from this to solving mysteries about unknown people?
 
-Karin’s surname is Borgerson. She inherited that name from her father Barry, who inherited it from his father Raymond. However, Raymond wasn’t born with that surname. He took his stepfather’s name. When he was born, his name was Raymond Willard Johnson. Here’s an image of his birth certificate:
+Karin’s surname is Borgerson. She inherited that name from her father [span style:`{color:'#56939A'}`]Barry[/span], who inherited it from his father [span style:`{color:'#8d559d'}`]Raymond[/span]. However, [span style:`{color:'#8d559d'}`]Raymond[/span] wasn’t born with that surname. He took his stepfather’s name. When he was born, his name was [span style:`{color:'#8d559d'}`]Raymond Willard Johnson[/span]. Here’s an image of his birth certificate:
 
 ![birthcert](./static/images/birth_certificate.png)
 
 *Washington Board of Health, Certificate of Birth, Registration District 1, record no. 49, file no 19319, registered no 39 (1915), Raymond Willard Johnson; Center for Health Statistics, Department of Health, Tumwater; certified copy privately held by Barry Raymond Borgerson, (address for private use,) Wake Forest, North Carolina, 2015.*
 
 
-This shows Raymond’s father as John Raphael Johnson, a blacksmith born in Houghton, Michigan around 1880. It turns out that there are a lot of men named John Johnson born about that time. However, extensive research in the paper trail does not identify a John Johnson who appears to be the right man. Family lore says that John Johnson originally had a French surname, but changed it because it was “unpronounceable”. Before incorporating DNA, Karin’s research hit a brick wall at her great-grandfather John Johnson(?).
+This shows [span style:`{color:'#8d559d'}`]Raymond's[/span] father as [span style:`{color:'#2972c5'}`]John Raphael Johnson[/span], a blacksmith born in Houghton, Michigan around 1880. It turns out that there are a lot of men named [span style:`{color:'#2972c5'}`]John Johnson[/span] born about that time. However, extensive research in the paper trail does not identify a [span style:`{color:'#2972c5'}`]John Johnson[/span] who appears to be the right man. Family lore says that [span style:`{color:'#2972c5'}`]John Johnson[/span] originally had a French surname, but changed it because it was “unpronounceable”. Before incorporating DNA, Karin’s research hit a brick wall at her great-grandfather.
 
-Barry Borgerson (Karin’s dad) agreed to spit in a tube for AncestryDNA. His DNA matches included a large number of people descended from French Canadians and early white inhabitants of Wisconsin, and these people also shared DNA with a known paternal cousin, suggesting that these matches were on the Raymond Johnson side of his family. 
+Barry Borgerson (Karin’s dad) agreed to spit in a tube for AncestryDNA. His DNA matches included a large number of people descended from French Canadians and early white inhabitants of Wisconsin, and these people also shared DNA with a known paternal cousin, suggesting that these matches were on the [span style:`{color:'#8d559d'}`]Raymond Johnson[/span] side of his family. 
 
-It was likely that these matches were on Raymond’s fathers side (John Johnson) rather than his mother’s side (Claire McElroy) because 
-a) the ancestry of Barry’s paternal grandmother was fairly well known and didn’t include anyone from Quebec or Wisconsin, and
-b) these matches did not cluster with known matches on the Claire McElroy side.
+It was likely that these matches were on [span style:`{color:'#8d559d'}`]Raymond's[/span] fathers side (John Johnson) rather than his mother’s side ([span style:`{color:'#f03775'}`]Claire McElroy[/span]) because 
+a) the ancestry of [span style:`{color:'#56939A'}`]Barry's[/span] paternal grandmother was fairly well known and didn’t include anyone from Quebec or Wisconsin, and
+b) these matches did not cluster with known matches on the [span style:`{color:'#f03775'}`]Claire McElroy[/span] side.
 
-We won’t bore you with the details, but a lot of research uncovered how some of those matches were related to one another. We’ll highlight three of them here that are included in the GEDmatch dataset. All three are descended from Moise Douillette (b. ~1843 Quebec, d. 1921 Wisconsin) and Seraphine Brunette (b. 1854 Wisconsin, died 1886 Wisconsin). One is their great-grandchild via their daughter Margaret; two are great-great-great-grandchildren via their son Ralph.
+We won’t bore you with the details, but a lot of research uncovered how some of those matches were related to one another. We’ll highlight three of them here that are included in the GEDmatch dataset. All three are descended from Moise Douillette (b. ~1843 Quebec, d. 1921 Wisconsin) and Seraphine Brunette (b. 1854 Wisconsin, died 1886 Wisconsin). One is their great-grandchild via their daughter Margaret; two are great-great-great-grandchildren via their son [span style:`{color:'#2972c5'}`]Ralph[/span].
 
 **(pedigree of just those mentioned in paragraph above)**
 
-It turns out that Ralph Douyette, a blacksmith who was married with four children, went away to work in another town in the summer of 1909. He never returned, and his family never knew his fate. DNA testing among descendants has confirmed that he was the same John Raphael Johnson (purported to have once had a French surname) who married Claire McElroy in Washington in 1912 and appears on Raymond Johnson’s birth certificate. 
+It turns out that [span style:`{color:'#2972c5'}`]Ralph Douyette[/span], a blacksmith who was married with four children, went away to work in another town in the summer of 1909. He never returned, and his family never knew his fate. DNA testing among descendants has confirmed that he was the same John Raphael Johnson (purported to have once had a French surname) who married [span style:`{color:'#f03775'}`]Claire McElroy[/span] in Washington in 1912 and appears on Raymond Johnson’s birth certificate. 
 
-Here’s one last view of our network graph, with the descendants of Ralph Douyette via his first marriage added to our color-coding:
+Here’s one last view of our network graph, with the descendants of [span style:`{color:'#2972c5'}`]Ralph Douyette[/span] via his first marriage added to our color-coding:
 
 
 [ObservableEmbed link:"https://observablehq.com/embed/@nboh/final-project-network-graph?cells=chart_douyettes"width:"100%" height:"800"/] 
