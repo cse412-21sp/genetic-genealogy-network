@@ -12,6 +12,11 @@
   color:"#ffffff"
    /]
 
+[fullWidth /]
+[data name:"Network" source:"triangulated_segments.json" /]
+[NetworkGraph data:Network /]
+[fullWidth /]
+
 It’s hard to imagine how a little bit of spit could unravel a family mystery, but in the case of our team member Karin, that is exactly what it did.  
 
 With the advent of affordable direct-to-consumer DNA testing, millions of people have spit in a tube or swabbed their cheeks, hoping to learn more about their ancestors. Lots of people pay attention to the bioregional estimates (e.g.  x% of your DNA appears to come from Ireland, y% Ivory Coast & Ghana, etc.). 
