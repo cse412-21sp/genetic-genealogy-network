@@ -33,7 +33,7 @@ class NetworkGraph extends D3Component {
         .selectAll("circle")
         .data(nodes)
         .join("circle")
-          .attr("r",3)
+          .attr("r", (d => d.overlap))
           .attr("fill", 'gray')
       
       
