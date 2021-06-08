@@ -6,12 +6,12 @@ Raphael Bakin \
 Andrew Bingham \
 Nick Bohmann \
 Karin Borgerson \
-Hana Morris \
+Hana Morris
 
 
 ### Contribution Statements
 
-**Raphael Bakin**: Worked on editing story, edited video \
+**Raphael Bakin**: Worked on editing story, edited video, worked on chromosome map (did not end up in final product) \
 **Andrew Bingham**:  Led development of pedigree visualization, worked on color coding of visualizations, helped edit story and create video presentation \
 **Nick Bohmann**: Led development of network graphs, worked on color coding of visualizations, resolved D3 embedding issues, helped edit story, helped write script and develop video presentation \
 **Karin Borgerson**: Acquired and anonymized GEDmatch data, provided other genealogical data, wrote initial draft of story copy, contributed to encoding decisions on visualizations, created circle graphs that ended up on the cutting room floor, participated in creating video and editing final deliverable. \
