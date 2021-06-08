@@ -47,7 +47,7 @@ Two of the DNA testers in this network are [span style:`{color:'#56939A'}`]sibli
 
 This view starts to show some of the clusters of matches who are related on Karin’s dad’s side of the family. The two large nodes are Karin's aunt and uncle. Mouse over them to see! (Note that this won’t identify all paternal matches, as some may not have triangulated segments with this aunt and uncle).
 
-Karin’s maternal grandfather [span style:`{color:'#dc9118'}`]George Nelson[/span]  also tested his DNA before he died, and he gave Karin permission to share information about his results. Here’s a diagram of Karin’s ancestors that goes back one more generation, showing her four grandparents. 
+Karin’s maternal grandfather [span style:`{color:'#dc9118'}`]George Nelson[/span]  also tested his DNA before he died, and he gave Karin permission to share information about his results. Here’s a diagram of Karin’s ancestors that shows her four grandparents, as well as the aunt we mentioned above. 
 
 [ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/8?cells=chart" width:"100%" height:"445"/]
 
@@ -61,6 +61,8 @@ We can also identify a match related through Karin’s maternal grandmother ([sp
 
 [data name:"Network_cousins" source:"triangulated_segments_cousins.json" /]
 [NetworkGraph_cousins data:Network_cousins /]
+
+[ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/9?cells=chart" width:"100%" height:"445"/]
 
 Highlighting matches connected to some known relatives starts to provide some meaning to this network graph, but how do we move from this to solving mysteries about unknown people?
 
@@ -84,7 +86,7 @@ We won’t bore you with the details, but a lot of research uncovered how some o
 
 [ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/7?cells=chart" width:"100%" height:"445"/]
 
-It turns out that [span style:`{color:'#2972c5'}`]Ralph Douyette[/span], a blacksmith who was married with four children, went away to work in another town in the summer of 1909. He never returned, and his family never knew his fate. DNA testing among descendants has confirmed that he was the same John Raphael Johnson (purported to have once had a French surname) who married [span style:`{color:'#f03775'}`]Claire McElroy[/span] in Washington in 1912 and appears on Raymond Johnson’s birth certificate. Here's a more complete family tree:
+It turns out that [span style:`{color:'#2972c5'}`]Ralph Douyette[/span], a blacksmith who was married with four children, went away to work in another town in the summer of 1909. He never returned, and his family never knew his fate. DNA testing among descendants has confirmed that he was the same John Raphael Johnson (purported to have once had a French surname) who married [span style:`{color:'#f03775'}`]Claire McElroy[/span] in Washington in 1912 and appears on Raymond Johnson’s birth certificate. Here's a more complete family tree; click and drag to scroll through it.
 
 [ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/6?cells=chart" width:"100%" height:"445"/]
 
