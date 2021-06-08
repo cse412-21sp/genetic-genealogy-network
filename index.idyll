@@ -49,7 +49,7 @@ This view starts to show some of the clusters of matches who are related on Kari
 
 Karin’s maternal grandfather [span style:`{color:'#dc9118'}`]George Nelson[/span]  also tested his DNA before he died, and he gave Karin permission to share information about his results. Here’s a diagram of Karin’s ancestors that goes back one more generation, showing her four grandparents. 
 
-[ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/9?cells=chart" width:"100%" height:"445"/]
+[ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/8?cells=chart" width:"100%" height:"445"/]
 
 If we now color [span style:`{color:'#dc9118'}`]George[/span] and his connections in the network graph, we can also identify the matches who are related to Karin via [span style:`{color:'#dc9118'}`]George[/span].
 
@@ -58,8 +58,6 @@ If we now color [span style:`{color:'#dc9118'}`]George[/span] and his connection
 [NetworkGraph_grandpa data:Network_grandpa /]
 
 We can also identify a match related through Karin’s maternal grandmother ([span style:`{color:'#decd17'}`]Bonny Sharp[/span]), as well as two related through [span style:`{color:'#f03775'}`]Claire McElroy[/span] ([span style:`{color:'#56939A'}`]Barry's[/span] paternal grandmother).
-
-**( Also pedigree(s)?)**
 
 [data name:"Network_cousins" source:"triangulated_segments_cousins.json" /]
 [NetworkGraph_cousins data:Network_cousins /]
