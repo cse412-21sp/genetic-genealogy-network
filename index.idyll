@@ -96,10 +96,6 @@ Here’s one last view of our network graph, with known matches on the [span sty
 [data name:"Network_douyettes" source:"triangulated_segments_douyettes.json" /]
 [NetworkGraph_grandpa data:Network_douyettes /]
 
-
-[FullWidth]
-[div style:`{padding: '100px'}`]
-
 ## Credits
 
 Step-by-step directed graph drawing (dagre layout)  [br/]
@@ -117,5 +113,3 @@ https://dnapainter.com/ [br/]
 by Jonny Perl [br/]
 https://dnapainter.com/help/who
 
-[/div]
-[/FullWidth]
