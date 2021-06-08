@@ -7,7 +7,7 @@
   author:"Raphael Bakin, Andrew Bingham, Nick Bohmann, Karin Borgerson, Hana Morris"
   authorLink: "
   https://courses.cs.washington.edu/courses/cse412/21sp/index.html"
-  date:"June 8, 2021"
+  date:"June 7, 2021"
   background:"#457B9D"
   color:"#ffffff"
    /]
@@ -47,7 +47,7 @@ Two of the DNA testers in this network are [span style:`{color:'#56939A'}`]sibli
 
 This view starts to show some of the clusters of matches who are related on Karin’s dad’s side of the family. The two large nodes are Karin's aunt and uncle. Mouse over them to see! (Note that this won’t identify all paternal matches, as some may not have triangulated segments with this aunt and uncle).
 
-Karin’s maternal grandfather [span style:`{color:'#dc9118'}`]George Nelson[/span]  also tested his DNA before he died, and he gave Karin permission to share information about his results. Here’s a diagram of Karin’s ancestors that shows her four grandparents, as well as the aunt we mentioned above. 
+Karin’s maternal grandfather [span style:`{color:'#dc9118'}`]George Nelson[/span]  also tested his DNA before he died, and he gave Karin permission to share information about his results. Here’s a diagram of Karin’s ancestors that shows her four grandparents, as well as the aunt and uncle we mentioned above. 
 
 [ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/8?cells=chart" width:"100%" height:"445"/]
 
@@ -59,10 +59,10 @@ If we now color [span style:`{color:'#dc9118'}`]George[/span] and his connection
 
 We can also identify a match related through Karin’s maternal grandmother ([span style:`{color:'#decd17'}`]Bonny Sharp[/span]), as well as two related through [span style:`{color:'#f03775'}`]Claire McElroy[/span] ([span style:`{color:'#56939A'}`]Barry's[/span] paternal grandmother).
 
+[ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/9?cells=chart" width:"100%" height:"445"/]
+
 [data name:"Network_cousins" source:"triangulated_segments_cousins.json" /]
 [NetworkGraph_cousins data:Network_cousins /]
-
-[ObservableEmbed link:"https://observablehq.com/embed/@afbing/directed-graph-drawn-with-dagre/9?cells=chart" width:"100%" height:"445"/]
 
 Highlighting matches connected to some known relatives starts to provide some meaning to this network graph, but how do we move from this to solving mysteries about unknown people?
 
@@ -95,3 +95,27 @@ Here’s one last view of our network graph, with known matches on the [span sty
 
 [data name:"Network_douyettes" source:"triangulated_segments_douyettes.json" /]
 [NetworkGraph_grandpa data:Network_douyettes /]
+
+
+[FullWidth]
+[div style:`{padding: '100px'}`]
+
+## Credits
+
+Step-by-step directed graph drawing (dagre layout)  [br/]
+https://observablehq.com/@bartok32/step-by-step-directed-graph-drawing-dagre-layout [br/]
+by Bartosz Prusinowski [br/]
+https://www.linkedin.com/in/bartosz-prusinowski
+
+Force-Directed Graph [br/]
+https://observablehq.com/@d3/force-directed-graph [br/]
+by Mike Bostock [br/]
+https://observablehq.com/@mbostock
+
+DNA Painter [br/]
+https://dnapainter.com/ [br/]
+by Jonny Perl [br/]
+https://dnapainter.com/help/who
+
+[/div]
+[/FullWidth]

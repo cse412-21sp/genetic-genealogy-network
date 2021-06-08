@@ -14,12 +14,12 @@ Hana Morris \
 **Raphael Bakin**: Worked on editing story, edited video \
 **Andrew Bingham**:  Led development of pedigree visualization, worked on color coding of visualizations, helped edit story and create video presentation \
 **Nick Bohmann**: Led development of network graphs, worked on color coding of visualizations, resolved D3 embedding issues, helped edit story, helped write script and develop video presentation \
-**Karin Borgerson**: Led overall vision for project, developed story, guided visualizations, contributed valuable genealogy information \
+**Karin Borgerson**: Acquired and anonymized GEDmatch data, provided other genealogical data, wrote initial draft of story copy, contributed to encoding decisions on visualizations, created circle graphs that ended up on the cutting room floor, participated in creating video and editing final deliverable. \
 **Hana Morris**: Led development of Idyll page, helped edit story, helped write script and develop video presentation
 
 ## Project Proposal Abstract
 
-This is the space for you to add a description for your project.
+The goal of this project was to use visualization techniques to decipher the often difficult to understand results of direct-to-consumer DNA testing, and to unravel the mystery of one of our team members’ family tree. To this end, we created a page that explored the relationships between individuals from the GEDmatch Database that shared DNA with our team member, Karin, and how these data could be used to reconstruct a family pedigree. Using a combination of force-directed network graphs and pedigree charts, we constructed a narrative that helps the reader understand and explore these data, and uncover a decades-old family secret along the way. 
 
 ## Getting Started
 
